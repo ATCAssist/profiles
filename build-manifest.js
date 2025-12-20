@@ -8,7 +8,7 @@ function buildManifest() {
   const files = fs.readdirSync(PROFILES_DIR);
 
   const profiles = files
-    .filter(file => file.endsWith('.json') && file !== 'manifest.json')
+    .filter(file => file.endsWith('.json') && file !== 'manifest.json' && file !== 'vercel.json')
     .map(file => {
       const filePath = path.join(PROFILES_DIR, file);
       const content = fs.readFileSync(filePath, 'utf8');
