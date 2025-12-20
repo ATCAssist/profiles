@@ -1,0 +1,32 @@
+{
+  "id": "HCF",
+  "name": "Honolulu Control Facility",
+  "description": "Center and approach for the Honolulu ARTCC (ZHN) covering Hawaii and surrounding areas.",
+  "weather_stations": [
+    "PHNL",
+    "PHOG",
+    "PHKO",
+    "PHTO",
+    "PHLI",
+    "PHMK",
+    "PHBK",
+    "PHSF",
+    "PHJR",
+    "PHHI"
+  ],
+  "controller_prefixes": [
+    "HNL",
+    "OGG",
+    "KOA",
+    "ITO",
+    "LIH"
+  ],
+  "quick_links": [
+    {
+      "label": "Standard Operating Procedures (SOPs)",
+      "url": "https://sops.vhcf.net/",
+      "icon": "document"
+    }
+  ],
+  "version": 1
+}
