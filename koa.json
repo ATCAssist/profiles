@@ -1,0 +1,19 @@
+{
+  "id": "KOA",
+  "name": "Kona FCT",
+  "description": "Cab postions for the Kona area under the Honolulu ARTCC (ZHN).",
+  "weather_stations": [
+    "PHKO"
+  ],
+  "controller_prefixes": [
+    "KOA"
+  ],
+  "quick_links": [
+    {
+      "label": "Standard Operating Procedures (SOPs)",
+      "url": "https://sops.vhcf.net/",
+      "icon": "document"
+    }
+  ],
+  "version": 1
+}
