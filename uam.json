@@ -1,0 +1,16 @@
+{
+  "id": "UAM",
+  "name": "Anderson Air Force Base ATCT",
+  "description": "Anderson Air Force Base tower positions under the Guam CERAP.",
+  "weather_stations": [
+    "PGUA"
+  ],
+  "controller_prefixes": [
+    "UAM"
+  ],
+  "quick_links": [
+    {
+    }
+  ],
+  "version": 1
+}
