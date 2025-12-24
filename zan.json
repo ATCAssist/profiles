@@ -1,0 +1,44 @@
+{
+  "id": "ZAN",
+  "name": "Anchorage ARTCC",
+  "description": "The Anchorage Air Route Traffic Control Center (ARTCC) covering Alaska and surrounding areas.",
+  "weather_stations": [
+    "PANC",
+    "PAFA",
+    "PABR",
+    "PASC",
+    "PAOT",
+    "PATA",
+    "PAGA",
+    "PANN",
+    "PAOM",
+    "PABE",
+    "PADL",
+    "PACD",
+    "PADU",
+    "PATK",
+    "PAEN",
+    "PACV",
+    "PACHO",
+    "PAKN",
+    "PADQ",
+    "PAYA",
+    "PAHN",
+    "PAJN",
+    "PASI",
+    "PAPG",
+    "PAKT"
+  ],
+  "controller_prefixes": [
+    "ANC"
+  ],
+  "quick_links": [
+    {
+      "label": "Standard Operating Procedures (SOPs)",
+      "url": "https://sops.zanartcc.org/docs/enroute/",
+      "icon": "document"
+    }
+  ],
+  "web_apps": ["vstrips", "vtdls"],
+  "version": 1
+}
