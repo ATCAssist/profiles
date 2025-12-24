@@ -27,6 +27,6 @@
       "icon": "document"
     }
   ],
-  "web_apps": ["vtdls"],
+  "web_apps": ["vstrips", "vtdls"],
   "version": 1
 }
